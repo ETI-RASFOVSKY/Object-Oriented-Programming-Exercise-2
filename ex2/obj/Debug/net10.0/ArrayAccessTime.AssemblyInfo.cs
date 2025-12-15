@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayAccessTime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d695eccdbc1ca09b3257b20357133a1d4caeba1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bccf0bb5dcba29927dd6a6eafaf956bac5aed813")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayAccessTime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayAccessTime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
